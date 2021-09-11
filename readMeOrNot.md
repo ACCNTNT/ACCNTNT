@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Controllr
 - 👀 I’m interested in ...Finance
-- 🌱 I’m currently learning ...Apps Script
+- 🌱 I’m currently learning ...Google Apps Script, SuiteScript, and studying FAR
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...@renatta.fx
 
