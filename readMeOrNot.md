@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Accntnt
-- 👀 I’m interested in ...FinOps Automation
+- 👀 I’m interested in ...FinOps Automations
 - 🌱 I’m currently learning ...Google Apps Script, SuiteScript, and studying FAR
 - 💞️ I’m looking to collaborate on ...teaching accountants how to write scripts
 - 📫 How to reach me @renatta.fx
