@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Finance
 - 🌱 I’m currently learning ...Google Apps Script, SuiteScript, and studying FAR
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@renatta.fx
+- 📫 How to reach me @renatta.fx
 
 <!---
 Controllr/Controllr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
