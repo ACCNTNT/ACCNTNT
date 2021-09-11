@@ -1,0 +1,10 @@
+//for scripting in Google Documents, how to find specific term and format all terms in Bold
+function myFunction() {
+  var doc = DocumentApp.getActiveDocument();
+  var body = doc.getBody().editAsText();
+  var currentMatch = body.findText("Taxable");
+    while(currentMatch){
+    currentMatch.getElement().setBold(true);
+    currentMatch = body.findText("Taxable",currentMatch);
+  }
+}
